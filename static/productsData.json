@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "name": "Product title",
+    "reviewCount": 300,
+    "rating": 4.5,
+    "price": 15,
+    "type": "best-seller",
+    "description": "Good for night",
+    "instockProducts": 0,
+    "productSold": 0,
+    "quantity": 1,
+    "size": [
+      {
+        "label": "50ml",
+        "value": "50ml"
+      },
+      {
+        "label": "70ml",
+        "value": "70ml"
+      }
+    ],
+    "images": "/static/products/Image.png"
+  },
+  {
+    "id": "1",
+    "name": "Product title",
+    "reviewCount": 300,
+    "rating": 4.5,
+    "price": 15,
+    "type": "best-seller",
+    "description": "Good for night",
+    "instockProducts": 0,
+    "productSold": 0,
+    "quantity": 1,
+    "size": [
+      {
+        "label": "50ml",
+        "value": "50ml"
+      },
+      {
+        "label": "70ml",
+        "value": "70ml"
+      }
+    ],
+    "images": "/static/products/Image.png"
+  },
+  {
+    "id": "1",
+    "name": "Product title",
+    "reviewCount": 300,
+    "rating": 4.5,
+    "price": 15,
+    "type": "best-seller",
+    "description": "Good for night",
+    "instockProducts": 0,
+    "productSold": 0,
+    "quantity": 1,
+    "size": [
+      {
+        "label": "50ml",
+        "value": "50ml"
+      },
+      {
+        "label": "70ml",
+        "value": "70ml"
+      }
+    ],
+    "images": "/static/products/Image.png"
+  },
+  {
+    "id": "1",
+    "name": "Product title",
+    "reviewCount": 300,
+    "rating": 4.5,
+    "price": 15,
+    "type": "best-seller",
+    "description": "Good for night",
+    "instockProducts": 0,
+    "productSold": 0,
+    "quantity": 1,
+    "size": [
+      {
+        "label": "50ml",
+        "value": "50ml"
+      },
+      {
+        "label": "70ml",
+        "value": "70ml"
+      }
+    ],
+    "images": "/static/products/Image.png"
+  }
+]
